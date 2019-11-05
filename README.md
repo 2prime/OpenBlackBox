@@ -18,6 +18,9 @@ deep mind用心理学都能打破深度学习黑箱
 用复杂网络打开黑箱
 <a href="http://swarma.org/?p=11802>link</a>
          
+没有那么伟大就解决了nlp的黑箱
+<a href="http://www.atyun.com/32315.html">link</a>
+         
 
 Xianfeng Gu
 “看穿机器学习的黑箱”
@@ -29,3 +32,5 @@ Xianfeng Gu
 梁小丹（女）：中山大学 智能工程学院副教授
 她打开了深度学习的黑盒，推动感知智能向认知智能的转变
 <a href="https://damo.alibaba.com/events/56">link</a>
+
+
