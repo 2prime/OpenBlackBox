@@ -1,6 +1,6 @@
 # 今天深度学习的黑箱被打开了吗
 
-请大家永远issue和pull request提打开深度学习黑箱的新闻！大家一起学习一起进步！
+请大家issue和pull request提打开深度学习黑箱的新闻！大家一起学习一起进步！
 
 AI侦探敲碎深度学习黑箱
 <a href="http://tech.sina.com.cn/d/2017-07-17/doc-ifyiamif3128667.shtml">link</a>
@@ -18,7 +18,7 @@ deep mind用心理学都能打破深度学习黑箱
 <a href="https://m.sohu.com/n/499293786/">link</a>
 
 用复杂网络打开黑箱
-<a href="http://swarma.org/?p=11802>link</a>
+<a href="http://swarma.org/?p=11802“>link</a>
          
 没有那么伟大就解决了nlp的黑箱
 <a href="http://www.atyun.com/32315.html">link</a>
