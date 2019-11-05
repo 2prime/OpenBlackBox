@@ -2,6 +2,11 @@
 
 请大家issue和pull request提打开深度学习黑箱的新闻！大家一起学习一起进步！
 
+## motivation
+ai is more important than fire or electricity <a href="https://www.cnbc.com/2018/02/01/google-ceo-sundar-pichai-ai-is-more-important-than-fire-electricity.html">reference</a>
+
+
+## Opening the  black box
 AI侦探敲碎深度学习黑箱
 <a href="http://tech.sina.com.cn/d/2017-07-17/doc-ifyiamif3128667.shtml">link</a>
 
