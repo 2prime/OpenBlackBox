@@ -1,5 +1,7 @@
 # 今天深度学习的黑箱被打开了吗
 
+请大家永远issue和pull request提打开深度学习黑箱的新闻！大家一起学习一起进步！
+
 AI侦探敲碎深度学习黑箱
 <a href="http://tech.sina.com.cn/d/2017-07-17/doc-ifyiamif3128667.shtml">link</a>
 
