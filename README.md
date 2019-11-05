@@ -17,6 +17,10 @@ AI侦探敲碎深度学习黑箱
 deep mind用心理学都能打破深度学习黑箱
 <a href="https://m.sohu.com/n/499293786/">link</a>
 
+XNN打开自己黑箱 这是meta-打开黑箱嘛
+<a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650747137&idx=3&sn=ba6f60b0d96afea2dda69dd9186e5e32&chksm=871af57fb06d7c69cbdea25ed090016bc8f8a7e9dacb0afb313e5113edc731e0b4a6b3d5624f&mpshare=1&scene=1&srcid=0818nl7ErSbm4kNbYZTKSOjb&sharer_sharetime=1572935754257&sharer_shareid=125e0c0f9a0388f53724f0441b123fb3&pass_ticket=lObiYaOln9W9o%2BmrlJK0%2BF0Hi6VhekSRLWws8d1exfxDOOhEHNFBA0I3V1uXPwXO#rd">link</a>
+
+
 用复杂网络打开黑箱
 <a href="http://swarma.org/?p=11802“>link</a>
          
