@@ -36,6 +36,9 @@ Google和openai 联手打开黑箱！facebook是不是不太行啊
 <a href="http://www.atyun.com/32315.html">link</a>
          
 
+Bengio 图灵奖打开了黑盒
+<a href="https://mp.weixin.qq.com/s?__biz=MzU1NzE0MDk1MA==&mid=2247487504&idx=1&sn=d7ae67a336db5a55243ac11d9fc9f800&chksm=fc3b0ea9cb4c87bfb6b2af5d28cc6231a1ea8c84867295b508fb827d27d83de8289cdd9a02c5&mpshare=1&scene=1&srcid=&sharer_sharetime=1572935980542&sharer_shareid=125e0c0f9a0388f53724f0441b123fb3&pass_ticket=lObiYaOln9W9o%2BmrlJK0%2BF0Hi6VhekSRLWws8d1exfxDOOhEHNFBA0I3V1uXPwXO#rd">href</a>
+
 Xianfeng Gu
 “看穿机器学习的黑箱”
 <a href="http://mp.weixin.qq.com/s?__biz=MzA3NTM4MzY1Mg==&mid=2650813024&idx=1&sn=31e326bd79ed24f5f47b35091385b9ab&chksm=8485c46bb3f24d7d36d1a93b48d9f4d0335262b1152de0bd0f2f1d09527e4acb2ae3d4730913&scene=21#wechat_redirect">(1)link</a>
